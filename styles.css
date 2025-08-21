@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(117, 149, 133);
+    color: black;
+}
+h1{
+    color:black ;
+}
+table th,td {
+    border: 1px solid black;
+    background-color: antiquewhite;
+}
